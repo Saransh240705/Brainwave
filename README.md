@@ -28,3 +28,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 Responsive: Ensures seamless functionality and aesthetics across all devices
 
 and many more, including code architecture and reusability
+
+<h1>Visit Website</h1>
+<a href="https://brainwave-qhva.vercel.app/">Click Here</a>
