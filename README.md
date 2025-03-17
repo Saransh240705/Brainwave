@@ -3,11 +3,18 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-⚙️ Tech Stack
-Vite
-React.js
-Tailwind CSS
-🔋 Features
+<h1>⚙️ Tech Stack</h1>
+<ul>
+  <li>
+    Vite
+  </li>
+  <li>
+    React.js
+  </li>
+  <li>Tailwind CSS</li>
+</ul>
+
+<h1> 🔋 Features </h1>
 👉 Beautiful Sections: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
 👉 Parallax Animations: Engaging effects triggered by mouse movement and scrolling
