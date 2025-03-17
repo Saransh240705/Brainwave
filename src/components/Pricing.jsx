@@ -1,5 +1,5 @@
 import React from 'react'
-import Section from './section'
+import Section from './Section'
 import { smallSphere, stars } from '../assets'
 import { MouseParallax } from 'react-just-parallax'
 import Heading from './Heading'

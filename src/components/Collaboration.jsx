@@ -1,5 +1,5 @@
 import React from 'react'
-import Section from './section'
+import Section from './Section'
 import { collabApps, collabContent, collabText } from '../constants'
 import { brainwaveSymbol, check } from '../assets'
 import Button from './Button'
